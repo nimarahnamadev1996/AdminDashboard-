@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    align-items: center;
+    padding: 15px; 
+    /* for video is 20px */
+    gap: 10px;
+}
+
+.container:hover,
+.active {
+  background-color: #2e374a;
+}
